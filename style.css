@@ -1,0 +1,17 @@
+html{
+  text-align: center;
+  background-color: beige;
+  width: 80%;
+  margin: 0 auto;
+}
+li{
+  width: fit-content;
+  margin: 30px auto;
+  font-size: 18px;
+  border-bottom: 1px solid #333;
+}
+h1{
+  font-size: 32px;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
